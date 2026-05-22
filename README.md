@@ -1,23 +1,12 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280" alt="anime gif"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+[SEU+NOME]+👋;Estudante+de+Programação;Sempre+aprendendo+algo+novo...)](https://git.io/typing-svg)
+<h2>Guilherme Caetano</h2>
 
 </div>
 
----
-
-### 👤 Sobre mim
-
-```yaml
-nome:        "[Seu Nome]"
-localização: "Brasil 🇧🇷"
-status:      "Estudando programação"
-foco:        "Aprender, construir e evoluir"
-hobby:       "Código + [seu hobby]"
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=30&center=true&vCenter=true&width=1000&lines=ESTUDANTE+DE+T.I+E+PROGRAMAÇÃO)](https://git.io/typing-svg)
+</div>
 
 ---
 
@@ -35,7 +24,6 @@ hobby:       "Código + [seu hobby]"
 
 ---
 
-### 📊 GitHub Stats
 
 <div align="center">
 
@@ -43,6 +31,7 @@ hobby:       "Código + [seu hobby]"
 
 </div>
 
+---
 
 <div align="center">
 
@@ -56,8 +45,8 @@ hobby:       "Código + [seu hobby]"
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-c-0495563ab)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.caetanostz@gmail.com)
 
 </div>
 
@@ -65,8 +54,9 @@ hobby:       "Código + [seu hobby]"
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guicaetano00)
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="280" alt="anime gif"/>
+</h3>
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
 
 </div>

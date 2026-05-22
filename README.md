@@ -1,9 +1,9 @@
-<!-- TOP BANNER RAINBOW -->
+<!-- TOP FOOTER (RAINBOW SVG) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=200&section=header&text=GUILHERME%20CAETANO&fontSize=35&fontColor=ffffff"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
 </p>
 
-<!-- GIF NOVO ALTA QUALIDADE -->
+<!-- GIF ALTA QUALIDADE -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="600px"/>
 </p>
@@ -37,11 +37,11 @@
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=guicaetano00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=guicaetano00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicaetano00&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicaetano00&layout=compact&theme=tokyonight"
   />
 </p>
 
@@ -50,7 +50,7 @@
 ## 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guicaetano00&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=guicaetano00&theme=tokyonight&no-frame=true&row=2&column=3"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ## 📌 Projetos em destaque
 
-🚧 Em construção... (adicione seus melhores projetos aqui)
+🚧 Em construção...
 
 ---
 
@@ -80,15 +80,14 @@
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <!-- OPCIONAL: TROCA PELO SEU INSTAGRAM -->
-  <a href="https://instagram.com/caetano.g__" target="_blank">
+  <a href="https://instagram.com/SEU_USER" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
-<!-- FOOTER RAINBOW -->
+<!-- FOOTER FINAL IGUAL -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
 </p>

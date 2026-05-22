@@ -43,9 +43,6 @@ hobby:       "Código + [seu hobby]"
 
 </div>
 
----
-
-### 🔥 Streak
 
 <div align="center">
 
@@ -70,8 +67,6 @@ hobby:       "Código + [seu hobby]"
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME)
 
-*"A jornada de mil milhas começa com um único passo."* 🌱
-
-<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280" alt="anime gif"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="280" alt="anime gif"/>
 
 </div>

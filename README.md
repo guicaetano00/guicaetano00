@@ -1,6 +1,6 @@
-<!-- TOP FOOTER (RAINBOW SVG) -->
+<!-- HEADER (RAINBOW COM SEU NOME) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=200&section=header&text=GUILHERME%20CAETANO&fontSize=35&fontColor=ffffff"/>
 </p>
 
 <!-- GIF ALTA QUALIDADE -->
@@ -87,7 +87,7 @@
 
 ---
 
-<!-- FOOTER FINAL IGUAL -->
+<!-- FOOTER FINAL (RAINBOW SVG) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
 </p>

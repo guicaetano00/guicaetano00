@@ -1,7 +1,10 @@
-<!-- HEADER (RAINBOW COM SEU NOME) -->
+<!-- HEADER (MESMO SVG DO FOOTER, INVERTIDO) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:ff0000,20:ff7f00,40:ffff00,60:00ff00,80:0000ff,100:8b00ff&height=200&section=header&text=GUILHERME%20CAETANO&fontSize=35&fontColor=ffffff"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" style="transform: rotate(180deg);"/>
 </p>
+
+<!-- NOME SOBREPOSTO -->
+<h1 align="center">GUILHERME CAETANO</h1>
 
 <!-- GIF ALTA QUALIDADE -->
 <p align="center">
@@ -80,14 +83,14 @@
     <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
-  <a href="https://instagram.com/SEU_USER" target="_blank">
+  <a href="https://instagram.com/caetano.g__" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
 ---
 
-<!-- FOOTER FINAL (RAINBOW SVG) -->
+<!-- FOOTER ORIGINAL -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
 </p>

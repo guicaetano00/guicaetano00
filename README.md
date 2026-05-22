@@ -1,67 +1,80 @@
-<div align="center">
+<!-- TOP BANNER / HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Guilherme%20Caetano&fontSize=35&fontColor=ffffff"/>
+</p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280" alt="anime gif"/>
-<h2>GUILHERME CAETANO</h2>
-
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ecc71&size=30&center=true&vCenter=true&width=1000&lines=ESTUDANTE+DE+T.I+E+PROGRAMAÇÃO)](https://git.io/typing-svg)
-</div>
-
----
-
-###                🚀 Tecnologias que estou aprendendo
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<!-- GIF MELHOR QUALIDADE -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
+</p>
 
 ---
 
+## 👨‍💻 Sobre mim
 
-<div align="center">
-
-<img src="https://camo.githubusercontent.com/f25dfe4dae337665b85fb1b07b6ed660766206bfb9fa88c9f104a2e87b2b3233/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792d7472696e6962732d70726f6a656374732e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d4d756c74694c616e67756167652c436f6d6d6974732c466f6c6c6f776572732c50756c6c52657175657374" alt="trophies"/>
-
-
-</div align="center">
-
-<img src="https://camo.githubusercontent.com/13200a4c18985bd8dc5eb4c449a3387dde0ddedfad8d1ecf089c4307661e9b25/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792d7472696e6962732d70726f6a656374732e76657263656c2e6170702f3f757365726e616d653d7472696e6962267468656d653d6d6174726978266e6f2d62673d74727565266e6f2d6672616d653d7472756526726f773d3126636f6c756d6e3d34267469746c653d5265706f7369746f726965732c4973737565732c4f7267616e697a6174696f6e732c5374617273" alt="trophies">
-
-
+🎓 Estudante de Desenvolvimento de Sistemas  
+💻 Focado em **Backend**  
+📚 Sempre aprendendo novas tecnologias  
+🚀 Em busca de evolução constante  
 
 ---
 
-<div align="center">
+## 🛠️ Tecnologias
 
-<img src="https://camo.githubusercontent.com/af798f0c451bb570dc6420aef904e72b52e9671c29d95cd00849bd149be93aad/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e6962732d70726f6a656374732e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d353939323030" alt="streak stats"/>
-
-</div>
-
----
-
-### 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-c-0495563ab)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.caetanostz@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,html,css,postgresql,git" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 Estatísticas
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guicaetano00)
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=guicaetano00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicaetano00&layout=compact&langs_count=7&theme=tokyonight"
+  />
+</p>
 
-</h3>
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
+---
 
-</div>
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guicaetano00&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=guicaetano00&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em construção... (adicione seus melhores projetos aqui)
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>

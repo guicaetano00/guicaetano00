@@ -5,7 +5,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600px"/>
+  <img src="https://camo.githubusercontent.com/c4cfa42ffdc185e0351abefd5b7dc0a425c88d42ebcd05840a3174122c39fbe5/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966" width="600px"/>
 </p>
 
 <!-- TYPING -->
